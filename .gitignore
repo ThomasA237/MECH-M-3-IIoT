@@ -1,10 +1,17 @@
+#Konfig mit den Passwörtern
+settings.toml
+
+#Editor-Dateien
 .vscode/
 .venv/
+
+#Editor-Dateien
 *.pyc
 __pycache__/
 .pdm-python
 /.quarto/
 _site/
+
 # PlatformIO / Zugangsdaten
 .pio/
 .env

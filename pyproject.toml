@@ -14,3 +14,17 @@ license = {text = "MIT"}
 
 [tool.pdm]
 distribution = false
+
+# --- WLAN-Einstellungen ---
+# SSID (Name) und Passwort des lokalen WLAN-Netzwerks.
+# WICHTIG: Diese müssen vor Ort eingetragen werden!
+wifi_ssid = "yourmuesli-produktion"
+wifi_password = "SehrGeheimesPasswort123"
+
+
+# --- MQTT Broker Einstellungen ---
+# Die Adresse des zentralen Servers (Broker), an den die Daten gesendet werden.
+broker_address = "158.180.44.197"
+broker_port = 1883
+mqtt_username = "bobm"
+mqtt_password = "letmein"
