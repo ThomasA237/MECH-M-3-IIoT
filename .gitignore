@@ -1,4 +1,5 @@
 #Konfig mit den Passwörtern
+src/raspi_firmware/settings.toml
 settings.toml
 
 #Editor-Dateien
