@@ -1,0 +1,8 @@
+{
+  "format_version": 1,
+  "schemathesis_version": "4.33.0",
+  "schema_location": "C:\\Users\\neume\\Desktop\\MCI\\3.Semester\\IoT\\MECH-M-3-IIoT\\docs\\iot-specs\\openapi.yaml",
+  "base_url": "http://192.168.0.79",
+  "created_at": "2026-11-03T15:24:13.730931+00:00",
+  "tls_verify": true
+}
